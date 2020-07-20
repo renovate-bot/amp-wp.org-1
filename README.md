@@ -1,2 +1,2 @@
 # amp-wp.org
-Website of The Official AMP Plugin for WordPress.
+Theme of The Official AMP Plugin for WordPress.
